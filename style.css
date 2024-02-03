@@ -1,0 +1,67 @@
+/* body {
+    background-color: #49FF00;
+    color: rgb(21, 195, 21);
+    font-size: 100px ;
+}
+
+header {
+    background-color: rgb(64, 43, 226);
+    color: aqua;
+}
+
+h1{
+ color: brown;   
+}
+
+title {
+    color: blueviolet;
+}
+
+#grover {
+    color: red;
+}
+
+.grover {
+    color: chocolate;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+#grover {
+    color: red;
+}
+
+nav {
+    background-color: aqua;
+
+
+}
+
+.ancla {
+    color: rgb(241, 24, 24);
+    text-decoration: #49FF00;
+}
+ */
+
+
+ .caja {
+    
+    background-color: aqua;
+    width: 80px;
+    height: 80px;
+    font-size: 30px;
+    padding: 20px;
+    margin: 10px;
+    border: 10px solid rosybrown;
+ }
+
+.contenedor {
+    background-color: rgb(10, 228, 54);
+    display: flex;
+    flex-direction: column ;
+    justify-content: space-evenly;
+ }
+
+ .caja:hover{
+    background-color: navy;
+ }
+
